@@ -1,3 +1,3 @@
 # github-demo
 This is my first GitHub Repository.
-Author - Hafiz Ahmad
+Author - Hafiz Ahmad (Web Developer)
